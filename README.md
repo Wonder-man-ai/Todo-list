@@ -15,8 +15,6 @@ https://wonder-man-ai.github.io/Todo-list/
 
 ✅ Add new tasks
 
-📝 Mark tasks as completed
-
 🗑️ Remove tasks from the list
 
 💾 Save tasks using localStorage (if added)
@@ -41,7 +39,8 @@ JavaScript	App logic & interactivity
 
 📂 Getting Started (for cloning locally)
 
-git clone https://github.com/yourusername/todo-list.git
+git clone 
+https://github.com/Wonder-man-ai/Todo-list
 cd todo-list
 open index.html
 
