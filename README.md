@@ -7,7 +7,7 @@ A simple, clean, and interactive To-Do List web app built with HTML, CSS, and Ja
 🚀 Live Demo
 
 🌐 Click here to try it out!
-(Replace with your actual GitHub Pages link)
+https://wonder-man-ai.github.io/Todo-list/
 
 ---
 
