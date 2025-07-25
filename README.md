@@ -36,7 +36,7 @@ Add tasks, mark them as done, delete them — stay organized with ease!
 ```bash
 git clone https://github.com/Wonder-man-ai/Todo-list.git
 cd Todo-list
-open index.html
+open index.html '''
 
 ---
 
