@@ -38,10 +38,8 @@ git clone https://github.com/Wonder-man-ai/Todo-list.git
 cd Todo-list
 open index.html
 
-> 💡 You can also open the index.html file directly in your browser.
-
-
 ---
+
 
 💡 Ideas for Improvement
 
